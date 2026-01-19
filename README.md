@@ -18,3 +18,5 @@
   📝 Estudo:
 
   Projeto desenvolvido em seguimento da rotina de estudos, novamente aplicando os efeitos de glassmorphism, mas em ultilização do Tailwind em detrimento de aprender novas formas de aplicar e dinamizar o CSS, usando da IA Gemini para auxiliar na instalação do framework e  conhecimento das classes necessárias para aplicar o efeito desejado. Lógica pura do Javascript construída por mim, mas com auxílio do Gemini nas questões de Math.Round, Math.floor e padStart sintaxes que eu não conhecia anteriormente.
+
+  ![Demo do Projeto](./print-projeto.png)
